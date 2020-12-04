@@ -1,0 +1,1 @@
+/usr/bin/g++.exe  -g  -Wl,--enable-auto-import CMakeFiles/AlgoStudy.dir/main.cpp.o CMakeFiles/AlgoStudy.dir/products.cpp.o  -o AlgoStudy.exe -Wl,--out-implib,libAlgoStudy.dll.a -Wl,--major-image-version,0,--minor-image-version,0  
